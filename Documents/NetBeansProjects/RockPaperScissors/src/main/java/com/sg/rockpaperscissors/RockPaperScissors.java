@@ -144,16 +144,6 @@ public class RockPaperScissors {
 
 
 
-    /*System.out.println("Enter number of rounds:  ");
-      int round = 10;
-    System.out.println("Let's start!");
-    
-    if (round < 10){
-    int round  = sc.nextInt();
-      sc.close();
-    System.out.println("Incorrect! Try again" + round)
-      }*/
-    
     
 
 
